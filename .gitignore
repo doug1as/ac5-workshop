@@ -1,0 +1,6 @@
+# Images
+*.tar.gz
+
+# ContainerLab
+clab-*/
+*.bak
